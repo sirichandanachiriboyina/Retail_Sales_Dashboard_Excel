@@ -1,6 +1,4 @@
 # Retail_Sales_Dashboard_Excel
-Copy this into your README.md file on GitHub (this will look professional for recruiters):
-
 📊 Retail Sales Dashboard Analysis using Excel
 
 📌 Project Overview
