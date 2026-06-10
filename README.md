@@ -11,7 +11,6 @@ The dashboard was created using Pivot Tables, Pivot Charts, Excel formulas, and 
 
 The goal of this project was to simulate a real-world Data Analyst workflow, including data cleaning, transformation, analysis, visualization, and dashboard building.
 
-⸻
 
 🎯 Objectives
 
@@ -24,7 +23,6 @@ The objectives of this project include:
 * Analyze customer purchasing segments
 * Build an interactive dashboard with dynamic filters
 
-⸻
 
 🛠️ Tools & Skills Used
 
@@ -44,7 +42,6 @@ Skills Applied
 * Business Analysis
 * Interactive Filtering using Slicers
 
-⸻
 
 📂 Dataset Information
 
@@ -59,7 +56,6 @@ The dataset contains retail sales information including:
 * Customer Segment
 * Order Date
 
-⸻
 
 📈 Dashboard Features
 
@@ -74,7 +70,6 @@ The interactive dashboard includes:
 
 Users can dynamically filter the dashboard to analyze sales and profitability across multiple dimensions.
 
-⸻
 
 🔍 Key Business Insights
 
@@ -101,7 +96,6 @@ Users can dynamically filter the dashboard to analyze sales and profitability ac
 
 * The Consumer segment contributed the highest share of sales.
 
-⸻
 
 📊 Dashboard Preview
 
@@ -111,17 +105,14 @@ Example:
 
 ![Dashboard Preview](Dashboard.png)
 
-⸻
 
 🚀 Project Outcome
 
 This project strengthened practical Excel and Data Analysis skills by applying data cleaning, business analysis, and dashboard design techniques to a real-world retail sales dataset.
 
-⸻
 
 👤 Author
 
 Siri Chandana Chiriboyina
 Aspiring Data Analyst | SQL | Excel | Python | Power BI
 
-After pasting this, click Commit changes again and your repo will look very professional 🚀
