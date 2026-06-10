@@ -109,7 +109,7 @@ Add your dashboard screenshot here.
 
 Example:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ⸻
 
