@@ -111,6 +111,6 @@ This project strengthened practical Excel and Data Analysis skills by applying d
 
 👤 Author
 
-Siri Chandana Chiriboyina
+Siri Chandana Chiriboyina |
 Aspiring Data Analyst | SQL | Excel | Python | Power BI
 
